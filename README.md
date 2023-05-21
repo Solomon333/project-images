@@ -1,1 +1,1 @@
- - projects backfround-images.
+ - backfround-images.
