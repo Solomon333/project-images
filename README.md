@@ -1,1 +1,1 @@
- - back-round images.
+ - backround images.
